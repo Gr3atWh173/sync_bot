@@ -16,7 +16,7 @@ $ cd sync_bot
 ```
 $ pip install -r requirements.txt
 ```
-4. Open config in an editor assign values to the constants
+4. Open config in an editor and assign values to the constants
   - In order to get facebook page token:
     - Goto [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/)
     - In the drop down menu, select 'Get User Access Token'
