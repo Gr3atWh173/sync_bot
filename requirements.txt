@@ -1,2 +1,2 @@
-praw
-facebook-sdk
+facebook-sdk==2.0.0
+praw==5.2.0
